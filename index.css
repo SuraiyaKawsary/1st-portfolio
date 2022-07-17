@@ -57,11 +57,17 @@ p {
     text-decoration: none;
     background-image: linear-gradient(cornflowerblue, darkblue);
     font-weight: 500;
-    padding: 10px 30px;
+    padding: 10px 25px;
     border-radius: 7px;
     color: azure;
+
 }
 
 .top {
     background-image: url(images/TND89w1.png);
+    background-repeat: no-repeat;
+}
+
+body {
+    margin: 0;
 }
