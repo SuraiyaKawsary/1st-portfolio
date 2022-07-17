@@ -12,6 +12,7 @@
 
 section {
     display: flex;
+    padding: 30px;
 }
 
 .ab {
@@ -30,11 +31,11 @@ h3 {
     padding: 40px;
 }
 
-h1 {
-    padding left: 40px;
+.as {
+    padding-left: 40px;
+
 }
 
 h2 {
-    padding left: ;
-    : 40px;
+    padding-top: 0px;
 }
