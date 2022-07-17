@@ -1,7 +1,40 @@
-div{
+.as {
     font-family: 'Fira Sans', sans-serif;
+    padding-left: 40px;
 }
-.ok{
+
+
+
+.ok {
     color: midnightblue;
-    
+
+}
+
+section {
+    display: flex;
+}
+
+.ab {
+    width: 50%;
+}
+
+.ac {
+    width: 50%;
+}
+
+.ac img {
+    width: 50%;
+}
+
+h3 {
+    padding: 40px;
+}
+
+h1 {
+    padding left: 40px;
+}
+
+h2 {
+    padding left: ;
+    : 40px;
 }
