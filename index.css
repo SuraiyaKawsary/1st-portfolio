@@ -93,3 +93,21 @@ body {
     padding-left: 0px;
     margin: 0px;
 }
+
+.box {
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    box-shadow: 10px 10px 40px darkblue;
+    border-left: 7px solid rgb(246, 150, 5);
+}
+
+.ex {
+    padding: 30px;
+}
+
+footer {
+    text-align: center;
+    color: beige;
+}
